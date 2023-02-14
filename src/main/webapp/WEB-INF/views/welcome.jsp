@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h1> Wlecome </h1>
+<h1> Welcome </h1>
 
 <p> Welcome ${name} . Name Length : ${length} </p>
 
