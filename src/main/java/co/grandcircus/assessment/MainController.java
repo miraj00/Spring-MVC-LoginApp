@@ -31,7 +31,7 @@ public class MainController {
 		Model model ) {
 		
 		String UpperCase = name.toUpperCase();
-		System.out.println("UpperCase");
+		System.out.println(UpperCase);
 		
 		int Length = name.length(); 
 		
